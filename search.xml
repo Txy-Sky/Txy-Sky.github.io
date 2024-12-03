@@ -4,19 +4,6 @@
   
     
     <entry>
-      <title>[object Object]</title>
-      <link href="/undefined-Txy/%E6%9C%AA%E5%91%BD%E5%90%8D/"/>
-      <url>/undefined-Txy/%E6%9C%AA%E5%91%BD%E5%90%8D/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>渗透测试笔记思路</title>
       <link href="/undefined-Txy/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0%E6%80%9D%E8%B7%AF/"/>
       <url>/undefined-Txy/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0%E6%80%9D%E8%B7%AF/</url>
@@ -66,7 +53,7 @@
       <link href="/undefined-Txy/%E6%B5%8B%E8%AF%95/"/>
       <url>/undefined-Txy/%E6%B5%8B%E8%AF%95/</url>
       
-        <content type="html"><![CDATA[<h3 id="知识领域"><a href="#知识领域" class="headerlink" title="知识领域"></a>知识领域</h3><blockquote><p>#UPX脱壳魔改</p><p>#base64换表</p></blockquote><h3 id="解题过程"><a href="#解题过程" class="headerlink" title="解题过程"></a>解题过程</h3><p>该程序为魔改的UPX壳,把ABC改为UPX</p><p><img src="/../images/%E6%B5%8B%E8%AF%95/IMG-20241127130301548.png"></p><p>通过修改关键字即可正常脱壳，发现是换表的base64正常解密即可</p><p><img src="https://cdn.nlark.com/yuque/0/2024/jpeg/45539383/1731292110108-6038b700-603a-49f8-ac31-0350876b7ab8.jpeg"></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="知识领域"><a href="#知识领域" class="headerlink" title="知识领域"></a>知识领域</h3><blockquote><p>#UPX脱壳魔改</p><p>#base64换表</p></blockquote><h3 id="解题过程"><a href="#解题过程" class="headerlink" title="解题过程"></a>解题过程</h3><p>该程序为魔改的UPX壳,把ABC改为UPX</p><p><img src="/../images/%E6%B5%8B%E8%AF%95/IMG-20241127130301548.png"></p><p>通过修改关键字即可正常脱壳，发现是换表的base64正常解密即可</p><p><img src="/../images/%E6%B5%8B%E8%AF%95/IMG-20241203104548733.png"></p>]]></content>
       
       
       

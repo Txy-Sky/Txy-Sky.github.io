@@ -20723,6 +20723,16 @@ html.hide-aside .layout > div:first-child {
   }
 }
 
+/* 阿里图标 */
+svg.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+    font-size: 20px;
+}
+
 #aside-content .card-widget#card-wechat {
   background: #57bd6a;
   display: flex;
